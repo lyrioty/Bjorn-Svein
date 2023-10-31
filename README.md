@@ -1,3 +1,2 @@
-# As Crônicas de Bjorn
-
-Esboço. Para visitar o site, [clique aqui](https://lyrioty.github.io/Bjorn-Svein/).
+[Visite meu site](https://lyrioty.github.io/Bjorn-Svein/)
+[Visite meu site](As profecia de Bjorn teste chrome)
